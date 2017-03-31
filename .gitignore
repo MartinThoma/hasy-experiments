@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+*.h5
+workdir/
+summary_dir/
+checkpoints/
